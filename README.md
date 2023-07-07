@@ -13,3 +13,7 @@ Add metadata for deleted videos udner a playlist (yes, really, it's possible)
 Optimize such that mp4s and mp3s can be downloaded or converted at once rather than downloaded separately.
 
 Optimize for downlaod speed.
+
+Add requirements - which are yt-dlp (fork of yt-dl), ffmpeg, and more.
+
+Add the command lines I personally use if you wish to manually use yt-dlp rather than by Python script.
