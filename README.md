@@ -9,3 +9,7 @@ Downloads Youtube playlist links via yt-dlp as both mp4s and mp3s. The inspirati
 Add directory sorting
 
 Add metadata for deleted videos udner a playlist (yes, really, it's possible)
+
+Optimize such that mp4s and mp3s can be downloaded or converted at once rather than downloaded separately.
+
+Optimize for downlaod speed.
