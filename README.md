@@ -4,6 +4,9 @@ MFW when I daydream about all my favorite YouTube videos that get deleted.
 
 Downloads Youtube playlist links via yt-dlp as both mp4s and mp3s. The inspiration for this simple .py script is because of the constant YouTube deletions.
 
+# Manual usage of yt-dlp by cmd line arguments
+Placeholder
+
 # TO DO
 
 Add directory sorting
