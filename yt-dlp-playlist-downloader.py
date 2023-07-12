@@ -53,9 +53,7 @@ def download_mp4s():
 if __name__ == "__main__":
     download_mp4s()
     download_mp3s()
-    time_taken = time.time() - start_time
-    print(f"Time taken: {time_taken:.2f} seconds")
-    time_taken = time_taken / 60
+    time_taken = (time.time() - start_time) / 60
     print(f"Time taken: {time_taken:.2f} minutes")
     time_taken = time_taken / 60
     print(f"Time taken: {time_taken:.2f} hours")
