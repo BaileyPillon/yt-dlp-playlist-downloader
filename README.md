@@ -1,4 +1,4 @@
-# yt-dlp-playlist-downloader
+# YT-DLP Playlist Downloader
 ![australian_woman_drinking_coffee](https://github.com/BaileyPillon/yt-dlp-playlist-downloader/assets/138253619/4562ebd3-ed4d-4004-95c5-6852d94b3156)
 MFW when I daydream about all my favorite YouTube videos that get deleted.
 
