@@ -34,7 +34,7 @@ def download_mp3s():
 
 def download_mp4s():
     # Create a directory to store the downloaded mp4s 
-    os.makedirs("H:/Juice WRLD - Legends Never Die 3", exist_ok=True)
+    os.makedirs("[Insert durectoty here], exist_ok=True)
     
     # Set the options for yt-dlp
     ydl_opts = {
